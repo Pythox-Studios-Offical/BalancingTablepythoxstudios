@@ -1,4 +1,4 @@
-Weapon,Cost,KillBonus,BaseDamage,ArmourDamage,ArmourPenetration,HelmetDamage,HelmetBleed,Weight,FalloffModifier,MinFalloffDist,MaxFalloffDist
+---Weapon,Cost,KillBonus,BaseDamage,ArmourDamage,ArmourPenetration,HelmetDamage,HelmetBleed,Weight,FalloffModifier,MinFalloffDist,MaxFalloffDist
 1911,0,200,800,25,25,10,100,50,0,0.8,2250,3000
 57,0,1600,400,20,25,100,100,75,0,0.85,2500,3000
 sock,0,650,600,20,30,10,50,50,0,0.85,1250,2000
@@ -104,3 +104,4 @@ pkm,0,3500,300,20,20,100,100,100,0,1,500,4000
 gas,0,400,0,0,0,0,0,100,0,1,500,4000
 thompson_drum,0,1600,400,20,30,10,25,25,0,1,500,4000
 ppsh_drum,0,1750,100,17,20,10,25,25,0,0.8,1500,2500
+
